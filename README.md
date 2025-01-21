@@ -8,13 +8,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://typodo-5f094.web.app/">
-    <img src="./src/assets/constructing.png" alt="Logo" height="80"  >
-  </a>
+
   <h1 align="center">Typodo</h1>
 
   <p align="center">
-    <a href="https://challengesphere-a9609.web.app/">View Demo</a>
+    <a href="https://typodo-5f094.web.app/">View Demo</a>
     ·
     <a href="https://github.com/SalahShallapy/Typodo/issues">Report Bug</a>
   </p>

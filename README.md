@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://challengesphere-a9609.web.app/">
+  <a href="https://typodo-5f094.web.app/">
     <img src="./src/assets/constructing.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Typodo</h1>
@@ -24,17 +24,7 @@ A fully type-safe Todo List application built with TypeScript and React, demonst
 
 ## Project Overview
 
-### Home Page Overview
-
-![home preview](./src/assets/home.png)
-
-### New Challenge Overview
-
-![new challange preview](./src/assets/new.png)
-
-### All Challenges Overview
-
-![all challanges preview](./src/assets/challanges.png)
+![overview](./public/overview.png)
 
 ## Features
 
